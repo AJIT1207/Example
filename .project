@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Example</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/7 Primitive Data Type in Java.txt</name>
+			<type>1</type>
+			<location>C:/Users/jajit/Downloads/Java-Tutorial-for-Beginners-Crash-Course-master/Java-Tutorial-for-Beginners-Crash-Course-master/7 Primitive Data Type in Java.txt</location>
+		</link>
+		<link>
+			<name>src/OOP1</name>
+			<type>2</type>
+			<location>C:/Users/jajit/Downloads/SeleniumJavaCourse-master/SeleniumJavaCourse-master/src/OOP1</location>
+		</link>
+		<link>
+			<name>src/OOP2</name>
+			<type>2</type>
+			<location>C:/Users/jajit/Downloads/SeleniumJavaCourse-master/SeleniumJavaCourse-master/src/OOP2</location>
+		</link>
+		<link>
+			<name>src/example/FinalKeyword1.class</name>
+			<type>1</type>
+			<location>C:/Users/jajit/Downloads/FinalKeyword.class</location>
+		</link>
+		<link>
+			<name>src/example/JavaSessions</name>
+			<type>2</type>
+			<location>C:/Users/jajit/Downloads/SeleniumJavaCourse-master/SeleniumJavaCourse-master/src/JavaSessions</location>
+		</link>
+	</linkedResources>
+</projectDescription>
